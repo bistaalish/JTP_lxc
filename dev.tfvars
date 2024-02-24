@@ -20,4 +20,4 @@ ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXA7s9ThYPDxLdB6WbT36uNL
 # Template
 ostemplate = "HDD:vztmpl/debian-12-standard_12.2-1_amd64.tar.zst"
 
-network = ["eth0","vmbr0","192.168.10.30/24","192.168.10.1"]
+network = ["eth0","vmbr0","192.168.10.33/24","192.168.10.1"]
