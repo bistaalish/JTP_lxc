@@ -1,6 +1,4 @@
 .terraform
 *terraform*
 *.auto.tfvars
-dev.auto.tfvars
 dev.auto.tfvars.bak
-*.auto.tfvars
