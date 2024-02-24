@@ -4,9 +4,9 @@
 # General
 general = {
   node = "pvesony"
-  hostname = "jenkins"
+  hostname = "jenkinsvm1"
   start = "true"
-  tags = "Terraform"
+  tags = "Jenkins"
     # Disk
   disk_size = "25G" 
   disk_name = "local"
